@@ -5,11 +5,11 @@
   "version": "0.7.0",
   "description": "Remove multi-vendor AI provenance marks: invisible Unicode (Layer A), statistical text watermarks via rewrite (Layer B), and C2PA/EXIF/XMP/container metadata on images, documents, and media. Ships the remove-ai-marks skill (thin client over the repo's HTTP service) and the self-contained clean-user-facing-text skill.",
   "author": {
-    "name": "watermarks-remover contributors",
-    "url": "https://github.com/guillaumemeyer/watermarks-remover"
+    "name": "Mr. Rao AI",
+    "url": "https://mrraoai.com"
   },
-  "homepage": "https://github.com/guillaumemeyer/watermarks-remover#readme",
-  "repository": "https://github.com/guillaumemeyer/watermarks-remover",
+  "homepage": "https://mrraoai.com/resources/claude-watermark-fix-open-source-tool-for-founders/",
+  "repository": "https://github.com/AgentMrX/watermarks-remover",
   "license": "MIT",
   "keywords": [
     "watermark",

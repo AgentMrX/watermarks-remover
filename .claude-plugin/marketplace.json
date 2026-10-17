@@ -1,8 +1,8 @@
 {
   "name": "watermarks-remover",
   "owner": {
-    "name": "watermarks-remover contributors",
-    "url": "https://github.com/guillaumemeyer/watermarks-remover"
+    "name": "Mr. Rao AI",
+    "url": "https://mrraoai.com"
   },
   "description": "Anti-detection hygiene skills: invisible Unicode, statistical text watermarks, and C2PA/EXIF/XMP provenance metadata.",
   "plugins": [
@@ -13,11 +13,11 @@
       "description": "Remove multi-vendor AI provenance marks from text, images, documents, and media. Bundles the remove-ai-marks and clean-user-facing-text skills.",
       "version": "0.7.0",
       "author": {
-        "name": "watermarks-remover contributors",
-        "url": "https://github.com/guillaumemeyer/watermarks-remover"
+        "name": "Mr. Rao AI",
+        "url": "https://mrraoai.com"
       },
-      "homepage": "https://github.com/guillaumemeyer/watermarks-remover#readme",
-      "repository": "https://github.com/guillaumemeyer/watermarks-remover",
+      "homepage": "https://mrraoai.com/resources/claude-watermark-fix-open-source-tool-for-founders/",
+      "repository": "https://github.com/AgentMrX/watermarks-remover",
       "license": "MIT",
       "category": "content",
       "keywords": [
